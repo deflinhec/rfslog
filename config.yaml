@@ -1,0 +1,13 @@
+watch: .
+config: []
+logger:
+    level: info
+    stdout: true
+    file: ""
+    rotation: false
+    max_size: 100
+    max_age: 0
+    max_backups: 0
+    local_time: false
+    compress: false
+    format: json
